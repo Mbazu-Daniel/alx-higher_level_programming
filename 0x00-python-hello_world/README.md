@@ -1,1 +1,1 @@
-Welcome to the wolrd of C programming
+Welcome to the world of Python programming
